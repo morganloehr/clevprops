@@ -1,0 +1,64 @@
+/*Body*/
+
+	body{
+	background-image: url("/props/assets/snow3.png");
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	}
+
+/*Header*/
+
+	h1{
+	font-size: 50px;
+	font-weight: 900;
+	font-family: Rockwell, "Courier New", Courier, Georgia,
+                 Times, "Times New Roman", serif;
+	color:#b9e4ed;
+	margin-top:40px;
+	margin-bottom:15px;
+		}
+	h2{
+	font-family: Helvetica;
+	font-size:30px;
+	font-weight: 600;
+	color:#f9a8f0;
+	margin-bottom:15px;
+	}
+		
+/*Paragraph*/
+
+	p{
+	font-family: Helvetica;
+	color:#ffffff;
+	font-size:19px;
+	font-weight:500;
+	line-height: 26px;
+	}
+	
+/*Anchor*/
+
+	a:link{
+	color:#b9e4ed;
+	}
+	a:visited{
+	color:#f9a8f0;
+	}
+	
+	
+/*Images*/
+
+	.clevholder{
+	height:500px;
+	position: relative
+	}
+	
+	.clev{
+	position: absolute;
+	bottom: 0;
+	right:0;
+	}
+	
+.top{
+height:500px;
+
+}
